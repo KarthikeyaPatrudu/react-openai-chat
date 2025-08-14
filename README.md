@@ -99,7 +99,9 @@ npm install
 </ol>
 
 <h2>📸 Screenshots</h2>
-<p><em>Add screenshots of your app here for better presentation.</em></p>
+<img src="Screenshots/Screenshot 2025-08-14 165319.png" alt="Home Page" width="800">
+<img src="Screenshots/Screenshot 2025-08-14 170911.png" alt="Home Page" width="800">
+<img src="Screenshots/Screenshot 2025-08-14 170920.png" alt="Home Page" width="800">
 
 
 <h2>👤 Author</h2>
